@@ -1,6 +1,6 @@
 Building a Question-and-Answer application with **LangChain**, **LangGraph**, and **FastAPI** using **AlloyDB** allows you to create a production-ready RAG (Retrieval-Augmented Generation) system.
 
-The following guide shows how to search vector data in AlloyDB and pass that context to an LLM within a state-managed workflow. (Note: To ingest the data in Alloy DB please take a look at (./ETL_Dataflow_GCP_Readme.md)
+The following guide shows how to search vector data in AlloyDB and pass that context to an LLM within a state-managed workflow. (Note: To ingest the data in Alloy DB please take a look at [ETL Dataflow GCP Doc] (./ETL_Dataflow_GCP_Readme.md)
 
 ### 1. Project Setup
 
